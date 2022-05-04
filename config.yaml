@@ -1,0 +1,23 @@
+621_default_search: ~eevee ~vaporeon ~jolteon ~flareon ~espeon ~umbreon ~leafeon ~glaceon
+  ~sylveon order:random -gore -anthro -human
+621_favcount_threshold: 350
+621_score_threshold: 100
+926_default_search: ~eevee ~vaporeon ~jolteon ~flareon ~espeon ~umbreon ~leafeon ~glaceon
+  ~sylveon order:random
+926_favcount_threshold: 150
+926_score_threshold: 50
+pixiv_default_search: "\u30DD\u30B1\u30E2\u30F3 (\u30D6\u30A4\u30BA OR \u30A4\u30FC\
+  \u30D6\u30A4 OR \u30D6\u30FC\u30B9\u30BF\u30FC OR \u30B7\u30E3\u30EF\u30FC\u30BA\
+  \ OR \u30B5\u30F3\u30C0\u30FC\u30B9 OR \u30A8\u30FC\u30D5\u30A3 OR \u30D6\u30E9\u30C3\
+  \u30AD\u30FC OR \u30EA\u30FC\u30D5\u30A3\u30A2 OR \u30B0\u30EC\u30A4\u30B7\u30A2\
+  \ OR \u30CB\u30F3\u30D5\u30A3\u30A2) -\u30DD\u30B1\u30E2\u30F3\u3054\u3063\u3053\
+  \ -\u30B9\u30AB\u30C8\u30ED -\u30DD\u30B1\u64EC -\u64EC\u4EBA\u5316 "
+  
+# TODO 你需要关注的这些设置
+root_qq:
+- 111111111
+access_default_group:
+- 3333333333
+- 2222222222
+bot_qq: 4444444444
+pixiv_cookie_PHPSESSID: 11111111_YouNeedToPutTheCookieThere

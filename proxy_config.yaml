@@ -1,0 +1,7 @@
+# windows下的代理
+win_proxy_https: http://127.0.0.1:62318
+win_proxy_http: http://127.0.0.1:62318
+# 全局的代理
+proxy_https: http://127.0.0.1:8889
+proxy_http: http://127.0.0.1:8889
+
